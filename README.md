@@ -1,2 +1,2 @@
 # branching
-This is for learning branching concept in git
+This is new text
